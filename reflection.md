@@ -18,3 +18,7 @@ Each language has its own particular requirements. Some can generate entire prog
 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
 Programming a Boolean for our mirror words allowed the program to recognize when the mirror words needed to be switched into the chatbot's responses. We struggled for a while to figure out how to use an array for the transcript, since we were convinced that arrays couldn't be added to under any circumstances. Once we learned that we just needed to import ArrayList that immidiately fixed that problem. I'd highly recommend to someone taking the course that they really utilize psuedocode as they construct the blueprint, since psuedocode can eventually be incorporated into any language, no matter how new the language may be to you.
+
+References:
+https://stackoverflow.com/questions/69083518/how-to-pick-random-element-from-2d-string-array-in-java - Used to learn to use random import
+https://stackoverflow.com/questions/71505537/java-chatbot-mirroring-and-canned-responses - Used as reference for developing mirror words and canned responses
